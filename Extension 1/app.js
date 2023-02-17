@@ -20,7 +20,7 @@ function bakchodi() {
     x.value="12017878"
 
     const y = document.getElementById('TxtpwdAutoId_8767')
-    y.value="i@Anmol123"
+    y.value="----"
 
     const btn = document.getElementById('iBtnLogins')
     btn.click()
